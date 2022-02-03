@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ChandakaYugandhar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ChandakaYugandhar/ChandakaYugandhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DOCTYPE html>
+<html>
+<head>
+<title>day_3_assignment</title>
+</head>
+<body>
+<h1>MY NAME IS CHANDAKA YUGANDHAR</h1>
+<h2>Why do you want to learn HTML CSS:ZERO TO HERO?</h2>
+<h3>I want to learn HTML & CSS for web development.</h3>
+</body>
+</html>
